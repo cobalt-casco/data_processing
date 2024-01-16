@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20190108</pubdate>
+                <title>MaineDEP Eelgrass 2013 (Casco Bay Only)</title>
+                <onlink>https://gis.maine.gov/arcgis/rest/services/dep/Eelgrass/MapServer/0</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Maine's eelgrass meadows form an important marine and estuarine coastal aquatic habitat for the state. Along with other plants, eelgrass forms the base of food production in the sea. Eelgrass provides shelter for juvenile fish, and invertebrates, is a site for primary settlement of the larvae of some bivalve mollusks, and in certain locations helps to stabilize unconsolidated sediments and shorelines. In August 2013, Casco Bay was flown and photographed. Photography was timed near low tides with low wind velocity, good water clarity, and maximum biomass of eelgrass. These factors aid in the detection of the subtidal portion a bed. Polygons delineating stands of eelgrass were screen digitized and coded using a four category scale of percent cover. Cover Class values: 1 = 0% to 10% cover, 2 = 10% to 40% cover, 3 = 40% to 70% cover, 4 = 70% to 100% cover. Verification was carried out by boat, on foot, and by plane. Though dense patches of eelgrass approximately 6 meters in diameter and less can be identified under good conditions and in some cases were mapped, a conservative estimate of the minimum mapping unit is 150 square meters. This represents a stand of approximately 14 meters in diameter.</abstract>
+            <purpose>MaineDEP Eelgrass Beds 2013 (Casco Bay Only)</purpose>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>20130101</begdate>
+                    <enddate>20131231</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>Casco Bay, Maine</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-70.3402</westbc>
+                <eastbc>-69.7387</eastbc>
+                <northbc>43.8731</northbc>
+                <southbc>43.6271</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>biota</themekey>
+                <themekey>environment</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>MaineDEP</themekey>
+                <themekey>biota</themekey>
+                <themekey>dep</themekey>
+                <themekey>eelgrass</themekey>
+                <themekey>environment</themekey>
+                <themekey>Maine DEP</themekey>
+                <themekey>Maine Department of Environmental Protection</themekey>
+                <themekey>state of maine</themekey>
+                <themekey>BIOLOGY</themekey>
+                <themekey>coastal</themekey>
+                <themekey>submerged aquatic vegetation</themekey>
+                <themekey>Zostera marina</themekey>
+                <themekey>oceans</themekey>
+                <themekey>habitat</themekey>
+                <themekey>Maine</themekey>
+                <themekey>MaineGeoLibrary</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>None</useconst>
+        <datacred>Maine Department of Environmental Protection with project support and contract administration by Casco Bay Estuary Partnership</datacred>
+    </idinfo>
+    <eainfo>
+        <overview>
+            <eaover>Eelgrass percent cover based on crown cover categories as adapted by Orth et al and described in Orth, R.J., J.F. Nowak, D.J. Wilcox, J.R. Whiting, and L.S. Nagey. 1998. Distribution of Submerged Aquatic Vegetation in the Chesapeake Bay and Tributaries and the Coastal Bays –1997. VIMS Special Scientific Report Number 138. 351 pp.</eaover>
+        </overview>
+    </eainfo>
+    <metainfo>
+        <metd>20190208</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Maine Department of Environmental Protection</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>physical</addrtype>
+                    <address>28 Tyson Dr</address>
+                    <city>Augusta</city>
+                    <state>ME</state>
+                    <postal>04333</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>207-287-7688</cntvoice>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

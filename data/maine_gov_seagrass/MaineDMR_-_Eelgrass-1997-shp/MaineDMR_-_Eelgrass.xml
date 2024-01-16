@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>Maine's eelgrass meadows form an important marine and estuarine coastal aquatic habitat for the state. Along with other plants, eelgrass forms the base of food production in the sea. Eelgrass provides shelter for juvenile fish, and invertebrates, is a site for primary settlement of the larvae of some bivalve mollusks, and in certain locations helps to stabilize unconsolidated sediments and shorelines. Between 1992 and 2013, various regions of the coast were flown and photographed. Photography was timed near low tides with low wind velocity, good water clarity, and maximum biomass of eelgrass. These factors aid in the detection of the subtidal portion a bed. Polygons delineating stands of eelgrass were screen digitized and coded using a four category scale of percent cover. Verification was carried out by boat, on foot, and by plane. Though dense patches of eelgrass approximately 6 meters in diameter and less can be identified under good conditions and in some cases were mapped, a conservative estimate of the minimum mapping unit is 150 square meters. This represents a stand of approximately 14 meters in diameter.</abstract>
+            <purpose>Coast-wide eelgrass surveys completed by DMR.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>MaineDMR</themekey>
+                <themekey>MaineDEP</themekey>
+                <themekey>MaineGIS</themekey>
+                <themekey>Maine</themekey>
+                <themekey>eelgrass</themekey>
+                <themekey>submerged aquatic vegetation</themekey>
+                <themekey>OpenData</themekey>
+                <themekey>geolibrary</themekey>
+                <themekey>spatial</themekey>
+                <themekey>ESI</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>MaineDMR provides this data for informative purposes and as a service to the research community. Users are free to use this data for analysis provided credit is given to MaineDMR. Users are requested to seek permission before republishing the data in its entirety. Not to be used for marine navigation. User assumes all liability for the use of this data.</useconst>
+        <datacred>MaineDMR</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
