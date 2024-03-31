@@ -59,6 +59,6 @@ joined_cover <- purrr::reduce(list(seagrass_2022,
                               seagrass_2010,
                               seagrass_1997),
                               .f = bind_rows) |>
-  select(year, acres, hectares, cover, cover_pct, year97)
+  select(year, name, acres, hectares, cover, cover_pct, year97)
 
 saveRDS(joined_cover, "data/joined_seagrass_cover.Rds")
